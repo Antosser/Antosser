@@ -10,5 +10,6 @@ I'm 13 years old and like programming in Javascript, C++, and Python. I like mak
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antosser&theme=radical">
 
 ## You can find me on
+### <a href="mailto:anton.moonalien@gmail.com">Email</a>
 ### <a href="discord.com/users/598883942342328322">Discord</a>
 ### <a href="https://steamcommunity.com/id/belibr">Steam</a>
