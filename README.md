@@ -1,5 +1,5 @@
 ## Hey there!
-I'm 13 years old and like programming in Javascript, C++, and Python. I like making automated bots to beat levels or get me lots of money. Check out my repositorys to find out more. I am sure there'll be something interesting for you! :smirk:
+I'm 13 years old and like programming in Javascript, C++, and Python. I like making automated bots to beat levels or get me lots of money. Check out my repositorys to find out more. I am sure there'll find something interesting for yourself! :smirk:
 
 <!--
 ## Stats
