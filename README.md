@@ -12,4 +12,3 @@ I'm 13 years old and like programming in JavaScript, C++, and Python. I like mak
 ## You can find me on
 ### Email - antosser@antosser.xyz
 ### <a href="https://discord.com/users/598883942342328322">Discord - Antosser#1336</a>
-### <a href="https://steamcommunity.com/id/belibr">Steam - belibr</a>
