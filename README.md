@@ -10,5 +10,5 @@ I'm 13 years old and like programming in JavaScript, C++, and Python. I like mak
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antosser&theme=radical&exclude_repo=website&hide=Batchfile,CSS">
 
 ## You can find me on
-### Email - antosser@antosser.xyz
+### Email - me@antonaparin.com
 ### <a href="https://discord.com/users/598883942342328322">Discord - Antosser#1336</a>
