@@ -1,5 +1,5 @@
 ## Hey there!
-I'm 14 years old and I like programming in JavaScript, C++, and Python. I am not quite sure into which branch of programming I will go so I'm exploring and simply trying out everything. Check out my repos to see what kind of stuff I'm doing. I am sure you'll find there something interesting for yourself! :smirk:
+I'm 14 years old and I like programming in Rust, Go, JavaScript, C++, and Python. I am not quite sure into which branch of programming I will go so I'm exploring and simply trying out everything. Check out my repos to see what kind of stuff I'm doing. I am sure you'll find there something interesting for yourself! :smirk:
 
 <!--
 ## Stats
