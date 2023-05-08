@@ -11,4 +11,4 @@ I'm 14 years old and I like programming in Rust, Go, JavaScript, C++, and Python
 
 ## You can find me on
 ### Email - me@antonaparin.com
-### <a href="https://discord.com/users/598883942342328322">Discord - Antosser#1336</a>
+### <a href="https://discord.antonaparin.com">Join my Discord Server</a> to get updates on stuff I do
