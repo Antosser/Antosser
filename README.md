@@ -7,6 +7,6 @@ I'm 15 years old and I like programming in Rust, Go, JavaScript, C++, and Python
 -->
 
 ## Most used languages
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antosser&theme=radical&exclude_repo=website&hide=Batchfile,CSS">
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antosser&theme=radical&exclude_repo=website,nushell&hide=Batchfile,CSS">
 
 ## <a href="https://discord.antonaparin.com">Join my Discord Server</a> to get updates on stuff I do
